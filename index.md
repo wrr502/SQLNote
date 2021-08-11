@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## WRR
 
-You can use the [editor on GitHub](https://github.com/wrr502/Wrr502.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+意向职位：软件实施工程师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+意向职位：前端开发工程师
 
-### Markdown
+### 基本信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sex：男
+
+Birthday：1997.12.28
+
+Education： Bachelor 
+
+Major：IMIS
+
+Email：wrr502@foxmail.com
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 求职意向 
+意向城市：广 州
+期望薪资：11k-15k
+求职类型：社 招
+期望行业：HIS/医疗软件
+当前状态：考虑机会
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wrr502/Wrr502.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 熟悉医疗信息化软件开发流程，熟悉JavaScript、H5开发
+2. 熟悉SQL语言，能熟练使用SQLserver、oracle、MySQL工具
+3. 了解医院业务流程，拥有一定的硬件和网络知识
+4. 两年三甲医院（中山眼科、广东省医、广州市一、省二中、中二等）的HIS实施维护经验
+5. 精通粤语，有较强的理解及口头书面表达能力，能承受一定的工作压力，接受出差
