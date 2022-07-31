@@ -1,5 +1,6 @@
 # Wrr502.SQLNote
-# SQLerver死锁查询，已在业务中实际验证
+# SQLerver死锁查询
+已在业务中实际验证
 
       CREATE  procedure [dbo].[sp_who_lock] 
       as 
