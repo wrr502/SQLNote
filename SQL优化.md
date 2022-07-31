@@ -1,7 +1,18 @@
 # Wrr502.SQLNote
 note
 # SQL执行顺序和优化
-1. FROM 和 JOINs
+###### 查询执行步骤（含是否使用索引）：
+
+	SQLServer： SET SHOWPLAN_ALL on/SET SHOWPLAN_XML on
+		    SELECT * FROM ...
+			    只影响当前会话窗口
+
+	MySQL：     EXPLAIN SELECT * FROM ...
+
+	Oracle：    EXPLAIN PLAN FOR
+		    SELECT * FROM ...
+###### 执行顺序
+1. FROM 和 JOIN
 FROM 或 JOIN会第一个执行，确定一个整体的数据范围. 如果要JOIN不同表，可能会生成一个临时Table来用于 下面的过程。总之第一步可以简单理解为确定一个数据源表（含临时表)
 
 2. WHERE
